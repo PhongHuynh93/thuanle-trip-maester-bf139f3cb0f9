@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trip Maester</string>
+
+    <string name="main_hint_search">Search</string>
+
+    <string name="google_service_connect_failed">Failed to connect! Error: </string>
+    <string name="google_service_connect_suspended">Connection suspended! Code: </string>
+    <string name="badge">123</string>
+</resources>
